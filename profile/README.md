@@ -1,12 +1,11 @@
-## Hi there 👋
+# AWFixerOS
 
-<!--
+*gonna be real i suck at read me files*
 
-**Here are some ideas to get you started:**
+AWFixerOS is an operating system with a planned evolution that will allow it to overcome currently limitations in the open source ecosystem.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+we are [here](https://inv.wtf/deadinside)
+
+We have a goal 9f writing all parts of the Operating System in nix and rust for speed and reproducible builds. 
+
+more information soon :tm:
