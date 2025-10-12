@@ -19,6 +19,8 @@ We have a goal 9f writing all parts of the Operating System in nix and rust for 
 
 AWFixerOS takes its inspiration from the following sources:
 - [NixOS]
+- [Nix]
 - [RedoxOS]
+- the brain of [AWFixer]
 
 more information soon :tm:
