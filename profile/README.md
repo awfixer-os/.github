@@ -12,6 +12,8 @@ We have a goal 9f writing all parts of the Operating System in nix and rust for 
 [Discord]: https://discord.gg/ajsbasement
 [AWFixer]: https://theautist.me
 [AWFixer and Friends]: https://awfixer.com
+[NixOS]: https://nixos.org
+[Nix]: https://nix.dev
 
 ## What is AWFixerOS?
 
