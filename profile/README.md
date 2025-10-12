@@ -14,6 +14,21 @@ We have a goal of writing all parts of the Operating System in nix and rust for 
 [AWFixer and Friends]: https://awfixer.com
 [NixOS]: https://nixos.org
 [Nix]: https://nix.dev
+[kernel-v2]: https://github.com/awfixer-os/kernel-v2
+[]: https://
+[]: https://
+[]: https://
+[]: https://
+[]: https://
+[]: https://
+[]: https://
+[]: https://
+[]: https://
+[]: https://
+[]: https://
+[]: https://
+[]: https://
+[]: https://
 
 ## What is AWFixerOS?
 
@@ -22,5 +37,14 @@ AWFixerOS takes its inspiration from the following sources:
 - [Nix]
 - [RedoxOS]
 - the brain of [AWFixer]
+- more soon
+
+## What is it going to do?
+
+AWFixerOS is going to do some fun things. I have composed a list of some below:
+
+- run a Microkernel
+  - you can see the current code for this in the [kernel-v2] repo
+- 
 
 more information soon :tm:
