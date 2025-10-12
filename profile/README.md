@@ -15,20 +15,6 @@ We have a goal of writing all parts of the Operating System in nix and rust for 
 [NixOS]: https://nixos.org
 [Nix]: https://nix.dev
 [kernel-v2]: https://github.com/awfixer-os/kernel-v2
-[]: https://
-[]: https://
-[]: https://
-[]: https://
-[]: https://
-[]: https://
-[]: https://
-[]: https://
-[]: https://
-[]: https://
-[]: https://
-[]: https://
-[]: https://
-[]: https://
 
 ## What is AWFixerOS?
 
@@ -45,6 +31,6 @@ AWFixerOS is going to do some fun things. I have composed a list of some below:
 
 - run a Microkernel
   - you can see the current code for this in the [kernel-v2] repo
-- 
+- have it's own anti cheat software
 
 more information soon :tm:
