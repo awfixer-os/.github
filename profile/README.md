@@ -6,7 +6,7 @@ AWFixerOS is an operating system with a planned evolution that will allow it to 
 
 we are [here](https://inv.wtf/deadinside)
 
-We have a goal 9f writing all parts of the Operating System in nix and rust for speed and reproducible builds. 
+We have a goal of writing all parts of the Operating System in nix and rust for speed and reproducible builds. 
 
 [RedoxOS]: https://www.redox-os.org/
 [Discord]: https://discord.gg/ajsbasement
