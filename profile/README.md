@@ -66,3 +66,6 @@ I am structuring this project so that you can sponsor via [GitHub Sponsors] to g
 our community is on [Discord]. When you join the Discord you will have to apply, which is something we use to keep the community safe. We look forward to seeing what you contribute to our community.
 
 more information soon :tm:
+
+
+Made with ❤️ by [AWFixer and Friends] © 2025 - All Rights Reserved
