@@ -48,6 +48,23 @@ AWFixerOS is going to do some fun things. I have composed a list of some below:
 - have it's own anti cheat software
 - solve a lot of problems on my list of [autistic problems]
 
+## Roadmap
+
+- Q4 2025 (right now)
+
+Project Organization. I have been sick for a while and I'm back to work on this after approximately 2 years of trying to return.
+
+I have been assembling a base team of a couple designers, a web developer, a developer competent in Rust, and our other needs are Elixir, Gleam, IoC and DevOps. We are considering an AI Specialist in the future.
+
+your able to read more about it on the [AWFixer and Friends] website 
+
+- Q1 2026
+
+this when I plan on releasing the first sub dev, pre alpha edition of AWOS (some weird code like v0.0.1-rc-blah-alpha) that contains a lot of the visual components we want, running on the Linux Kernel with the Cosmic Desktop Environment and our welcome app. From here I will work on assembling a dedicated team of testers and start releasing many of our projects abd experimental features like:
+
+   - Path and Hash based Encryption
+   - OS Based non invasive Anti Cheat Software and DRM (read more [here](hackertalks.blog/anticheat-is-the-devil))
+
 
 ## Contributing
 
