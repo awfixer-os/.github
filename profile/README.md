@@ -19,6 +19,7 @@ We have a goal of writing all parts of the Operating System in nix and rust for 
 [BuyMeACoffee]: https://coff.ee/awfixer
 [GitHub Sponsors]: https://github.com/sponsors/awfixer
 [CashApp]: https://cash.app/$awfixer
+[Regi] https://github.com/awfixer-os/regi
 
 
 <details>
@@ -60,11 +61,12 @@ your able to read more about it on the [AWFixer and Friends] website
 
 - Q1 2026
 
-this when I plan on releasing the first sub dev, pre alpha edition of AWOS (some weird code like v0.0.1-rc-blah-alpha) that contains a lot of the visual components we want, running on the Linux Kernel with the Cosmic Desktop Environment and our welcome app. From here I will work on assembling a dedicated team of testers and start releasing many of our projects abd experimental features like:
+this when I plan on releasing the first sub dev, pre alpha edition of AWOS (some weird code like v0.0.1-rc-blah-alpha) that contains a lot of the visual components we want, running on the Linux Kernel with the Cosmic Desktop Environment and our welcome app. From here I will work on assembling a dedicated team of testers and start releasing many of our projects and experimental features like:
 
    - Path and Hash based Encryption
    - OS Based non invasive Anti Cheat Software and DRM (read more [here](hackertalks.blog/anticheat-is-the-devil))
-
+   - our ipfs based Dotfile and Config backup system
+   - [Regi]
 
 ## Contributing
 
