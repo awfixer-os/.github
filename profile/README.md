@@ -1,4 +1,5 @@
 # AWFixerOS
+![SpaceMan](https://assets.awfixer.com/10.png)
 
 AWFixerOS is an operating system with a planned evolution that will allow it to overcome current limitations in the open source ecosystem.
 
@@ -23,6 +24,7 @@ We have a goal of writing all parts of the Operating System in nix and rust for 
 [AWOS RoadMap]: https://roadmap.awfixeros.site
 [AWOS Site]: https://awifxeros.site
 
+<h2 align="center"> You can find write-ups on various parts of the OS <a href="https://paper.awfixeros.site">Here</a></h2>
 
 <details>
 <summary>Table of Contents (might now work my titles are a bit long)</summary>
